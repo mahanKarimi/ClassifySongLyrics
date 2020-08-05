@@ -76,6 +76,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.song-lyrics
 
 # IPython
 profile_default/
